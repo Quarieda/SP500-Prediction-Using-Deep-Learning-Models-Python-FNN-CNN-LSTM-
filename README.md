@@ -4,7 +4,7 @@ Forecasts next-day S&amp;P 500 closing prices using deep learning architectures:
 **Author:** Nafiu B.A.  
 **Contct:** 
    nafiu_bashir13@yahoo.co.uk/nafiu13bashir@gmail.com
-   Experts in
+**Experts in:**
    - Data Science
    - Bayesian Statistical Inference
    - Data Story Telling & Communication
