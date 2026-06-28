@@ -1,5 +1,5 @@
 # S-P500-Prediction-Using-Deep-Learning-Models-Python-FNN-CNN-LSTM-
-Forecasts next-day S&amp;P 500 closing prices using deep learning architectures: Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), and Long Short-Term Memory (LSTM). Trained on macroeconomic indicators from FRED (2022–2023). Models were tuned via Optuna/KerasTuner.
+Forecasts next-day S&P 500 closing prices using deep learning architectures: Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), and Long Short-Term Memory (LSTM). Trained on macroeconomic indicators from FRED (2022–2023). Models were tuned via Optuna/KerasTuner.
 
 **Author:** Nafiu B.A.  
 **Contact:** 
@@ -15,8 +15,17 @@ Forecasts next-day S&amp;P 500 closing prices using deep learning architectures:
 
 ---
 
+## 🚀 Quick Start
+
+**Open in Google Colab:**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quarieda/SP500-Prediction-Using-Deep-Learning-Models-Python-FNN-CNN-LSTM-/blob/main/Final%20Project_FNN.ipynb) FNN Model
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quarieda/SP500-Prediction-Using-Deep-Learning-Models-Python-FNN-CNN-LSTM-/blob/main/Final_Project_CNN.ipynb) CNN Model
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quarieda/SP500-Prediction-Using-Deep-Learning-Models-Python-FNN-CNN-LSTM-/blob/main/Final%20Project%20LSTM.ipynb) LSTM Model
+
+---
+
 ## 📘 Overview  
-This project applies **deep learning architectures** — Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), and Long Short-Term Memory (LSTM) — to forecast **S&P 500 daily closing prices** using macroeconomic indicators and technical data from **FRED (Federal Reserve Economic Data)** covering 2022–2023.  
+This project applies **deep learning architectures** — Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), and Long Short-Term Memory (LSTM) — to forecast **S&P 500 daily closing prices** using macroeconomic indicators from the Federal Reserve Economic Data (FRED) system.
 
 The models were trained, tuned, and evaluated to determine which architecture delivers the **most accurate short-term market predictions**.  
 
@@ -93,4 +102,4 @@ The **CNN model** outperformed FNN and LSTM, demonstrating superior pattern extr
 **Nafiu B.A.**  
 📧 Ex-Ethic@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nafiu-bashir-7bb893277/)  
-💻 [GitHub]([https://github.com/andy9149](https://github.com/Quarieda))
+💻 [GitHub](https://github.com/Quarieda)
