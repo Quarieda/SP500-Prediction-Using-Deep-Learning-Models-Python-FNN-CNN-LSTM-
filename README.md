@@ -9,6 +9,7 @@ Forecasts next-day S&amp;P 500 closing prices using deep learning architectures:
    - Data Science
    - Bayesian Statistical Inference
    - Data Story Telling & Communication
+
 **Course:** WAIFEM ML for MACRO MODELLING & FORECASTING  
 **Tools:** Python (TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Optuna)  
 
@@ -89,7 +90,7 @@ The **CNN model** outperformed FNN and LSTM, demonstrating superior pattern extr
 ---
 
 ## 📬 Contact  
-**Sebastian Heredia**  
-📧 andy_9149@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seb-heredia/)  
-💻 [GitHub](https://github.com/andy9149)
+**Nafiu B.A.**  
+📧 Ex-Ethic@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nafiu-bashir-7bb893277/)  
+💻 [GitHub]([https://github.com/andy9149](https://github.com/Quarieda))
