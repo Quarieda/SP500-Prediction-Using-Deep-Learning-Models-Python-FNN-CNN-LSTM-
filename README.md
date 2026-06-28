@@ -1,8 +1,14 @@
 # S-P500-Prediction-Using-Deep-Learning-Models-Python-FNN-CNN-LSTM-
 Forecasts next-day S&amp;P 500 closing prices using deep learning architectures: Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), and Long Short-Term Memory (LSTM). Trained on macroeconomic indicators from FRED (2022–2023). Models were tuned via Optuna/KerasTuner.
 
-**Author:** Sebastian Heredia  
-**Course:** BSAN6070 – INTRODUCTION TO MACHINE LEARNING  
+**Author:** Nafiu B.A.  
+**Contct:** 
+   nafiu_bashir13@yahoo.co.uk/nafiu13bashir@gmail.com
+   Experts in
+   - Data Science
+   - Bayesian Statistical Inference
+   - Data Story Telling & Communication
+**Course:** WAIFEM ML for MACRO MODELLING & FORECASTING  
 **Tools:** Python (TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Optuna)  
 
 ---
